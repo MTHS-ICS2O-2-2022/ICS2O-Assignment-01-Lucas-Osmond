@@ -47,22 +47,22 @@ li {
 blockquote {
   text-align: center;
   font-size: 22px;
-  font-family: "Indie Flower", cursive;
+  font-family: "Indie Flower", Arial, Helvetica, sans-serif;
   margin: 50px;
 }
 
 .noteworthy {
-  max-width: 760px;
+  max-width: 750px;
   padding: 20px;
   margin: 0 auto;
   clear: both;
 }
 
 .tl-img {
-  width: 200px;
+  width: 150px;
   height: 100px;
   background-color: white;
-  border: 2px solid #404E6D;
+  border: 2px solid grey;
   margin-right: 15px;
   float: left;
   margin-top: 10px;
@@ -82,12 +82,12 @@ blockquote {
 
 a {
   text-decoration: none;
-  color: #404E6D;
+  color: blue;
   margin: 20px
 }
 
 a p:hover {
-  color: #D1A83B;
+  color: orange;
 }
 
 a p {
